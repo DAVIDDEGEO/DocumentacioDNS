@@ -20,3 +20,12 @@ After created this files, we will configure with the parameters of the zones. Wh
 
 ## Serve cache.
 In server Homer we will install a server cache
+
+# Other dates 
+## Boss of proyect
+David Jesús Albújar Castro
+
+## Employee
+Abel Asensio Mancera
+
+
